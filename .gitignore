@@ -1,3 +1,4 @@
+*.bc
 *.wasm
 *.wat
 .vscode
